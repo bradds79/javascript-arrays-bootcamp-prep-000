@@ -12,5 +12,5 @@ return array;
 }
 
 function addElementToBeginningOfArray(array, element) {
-return array;
+return [element, ...array];
 }
