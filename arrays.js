@@ -4,10 +4,11 @@ var chocolateBars = ["snickers",
 "skittles"]
 
 
-var addElementToBeginningOfArray = [1]
+//var addElementToBeginningOfArray = [1]
 
-
-//function addElementToBeginningOfArray(array, element) {
-//addElementToBeginningOfArray.unshift('foo');
-//return 'foo';
-//}
+var array = [1]
+var element = 'foo'
+function addElementToBeginningOfArray(array, element) {
+addElementToBeginningOfArray.unshift('foo');
+return 'foo';
+}
