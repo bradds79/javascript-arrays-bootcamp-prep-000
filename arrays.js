@@ -10,5 +10,5 @@ var array = [1]
 var element = 'foo'
 function addElementToBeginningOfArray(array, element) {
 array.unshift(element);
-return 'foo';
+return array;
 }
