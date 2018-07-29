@@ -3,12 +3,7 @@ var chocolateBars = ["snickers",
 "kitkat",
 "skittles"]
 
-function addElementToBeginningOfArray([1], 'foo') {
+function addElementToBeginningOfArray(array, element) {
 addElementToBeginningOfArray.unshift('foo');
 return 'foo';
-}
-
-function destructivelyPrependKitten(name) {
-  kittens.unshift(name);
-  return kittens;
 }
