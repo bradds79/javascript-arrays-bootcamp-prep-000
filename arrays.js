@@ -20,7 +20,7 @@ array.unshift(element);
 return array;
 }
 
-function destructivelyAddElementToBeginningOfArray(array, element) {
+function addElementToEndOfArray(array, element) {
 array.unshift(element);
 return array;
 }
