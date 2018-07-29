@@ -21,6 +21,6 @@ return array;
 }
 
 function addElementToEndOfArray(array, element) {
-array.unshift(element);
+array.push(element);
 return array;
 }
