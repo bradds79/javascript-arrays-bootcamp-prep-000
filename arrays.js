@@ -11,4 +11,6 @@ array.unshift(element);
 return array;
 }
 
-addElementToBeginningOfArray
+function addElementToBeginningOfArray(array, element) {
+return array;
+}
