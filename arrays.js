@@ -3,3 +3,4 @@ var chocolateBars = ["snickers",
 "kitkat",
 "skittles"]
 
+var addElementToBeginningOfArray = x
