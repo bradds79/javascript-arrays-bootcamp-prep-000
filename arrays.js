@@ -3,6 +3,6 @@ var chocolateBars = ["snickers",
 "kitkat",
 "skittles"]
 
-Function addElementToBeginningOfArray = () {
+Function addElementToBeginningOfArray = ([1], 'foo') {
 addElementToBeginningOfArray.unshift('foo');
 }
